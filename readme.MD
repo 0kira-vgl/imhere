@@ -1,4 +1,4 @@
-# Project: Meeting Participant List
+# Project: ImHere
 
 This is a simple React Native project that allows you to add and remove participant names from a meeting list. The interface is styled using NativeWind to implement Tailwind CSS styling in React Native.
 
